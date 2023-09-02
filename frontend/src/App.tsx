@@ -1,9 +1,7 @@
 import './App.css';
 import { Routes, Route } from 'react-router-dom';
-import {database} from '../../backend/database.js';
 import Layout from './components/Layout/Layout';
 import Home from './pages/Home';
-
 
 function App() {
   return (
@@ -21,5 +19,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
