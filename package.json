@@ -4,11 +4,9 @@
     "concurrently": "^8.2.0",
     "react": "*",
     "react-dom": "*",
-    "react-router-dom": "*",
-    "concurrently": "^8.2.0"
+    "react-router-dom": "*"
   },
   "scripts": {
-    "postinstall": "npm run link-backend",
     "postinstall": "concurrently yarn:postinstall:*",
     "postinstall:backend": "cd backend/ && yarn install",
     "postinstall:frontend": "cd frontend/ && yarn install",

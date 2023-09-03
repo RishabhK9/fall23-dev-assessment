@@ -33,29 +33,9 @@ function Footer() {
                                     <div class="h-8 w-1 bg-primary"></div>
                                 </div>
                                 <span class="text-2xl font-bold text-gray-900 dark:text-white">
-                                    Heartland
+                                    HaHa Heroes
                                 </span>
                             </Link>
-                            <div className="flex items-center gap-4">
-                                <Link
-                                    to="/about"
-                                    class="text-gray-500 transition hover:opacity-75"
-                                >
-                                    About Us
-                                </Link>
-                                <Link
-                                    to="/resources"
-                                    class="text-gray-500 transition hover:opacity-75"
-                                >
-                                    Resources & Dates
-                                </Link>
-                                <Link
-                                    to="/contact"
-                                    class="text-gray-500 transition hover:opacity-75"
-                                >
-                                    Contact
-                                </Link>
-                            </div>
                         </ul>
                     </nav>
 
@@ -71,29 +51,6 @@ function Footer() {
                                 Rishabh
                             </a>
                         </p>
-                        <li>
-                            <a
-                                href="https://github.com/armans-code/heartland-hosa"
-                                rel="noreferrer"
-                                target="_blank"
-                            >
-                                <svg viewBox="0 0 32 32" class="w-6 h-6">
-                                    <path d="M16,0C7.2,0,0,7.2,0,16       c0,8.8,7.2,16,16,16c8.8,0,16-7.2,16-16C32,7.2,24.8,0,16,0z M20,29.7c0-0.1,0-0.2,0-0.3c0-0.5,0-2.3,0-4.4       c0-1.5-0.5-2.5-1.1-3c3.6-0.4,7.3-1.8,7.3-7.9c0-1.7-0.6-3.2-1.6-4.3c0.2-0.4,0.7-2-0.2-4.2c0,0-1.3-0.4-4.4,1.6       c-1.3-0.4-2.6-0.5-4-0.5c-1.4,0-2.7,0.2-4,0.5C8.9,5.2,7.6,5.6,7.6,5.6C6.7,7.8,7.3,9.5,7.4,9.9c-1,1.1-1.6,2.5-1.6,4.3       c0,6.1,3.7,7.5,7.3,7.9c-0.5,0.4-0.9,1.1-1,2.1c-0.9,0.4-3.2,1.1-4.7-1.3c0,0-0.8-1.5-2.5-1.6c0,0-1.6,0-0.1,1       c0,0,1,0.5,1.8,2.3c0,0,0.9,3.1,5.4,2.1c0,1.3,0,2.3,0,2.7c0,0.1,0,0.2,0,0.2C6.2,27.9,2,22.6,2,16.3c0-7.7,6.3-14,14-14       c7.7,0,14,6.3,14,14C30,22.6,25.8,27.9,20,29.7z" />
-                                </svg>
-                            </a>
-                        </li>
-
-                        <li>
-                            <a
-                                href="https://www.linkedin.com/in/arman-kumaraswamy-80bba5244/"
-                                rel="noreferrer"
-                                target="_blank"
-                            >
-                                <svg viewBox="0 0 67 67" class="w-6 h-6">
-                                    <path d="M49.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H49.837z M21.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H21.959z M33,64  C16.432,64,3,50.568,3,34C3,17.431,16.432,4,33,4s30,13.431,30,30C63,50.568,49.568,64,33,64z M25.354,48.137V27.71h-6.789v20.427  H25.354z" />
-                                </svg>
-                            </a>
-                        </li>
                     </ul>
                 </div>
             </div>
