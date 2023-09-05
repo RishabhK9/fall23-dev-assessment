@@ -34,7 +34,7 @@ function Header() {
                                         viewBox="0 0 841.9 595.3"
                                         // xml:space="preserve"
                                         stroke="#000000"
-                                        stroke-width="0.0026827399999999998"
+                                        stroke-width="0.0016827399999999998"
                                     >
                                         <g id="SVGRepo_iconCarrier">
                                             <g>

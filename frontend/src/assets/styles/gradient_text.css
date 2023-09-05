@@ -14,14 +14,6 @@
     color: transparent;
 }
 
-.remind-text {
-    background: linear-gradient(-45deg, #accbff, #0474de);
-    background-clip: text;
-    -webkit-background-clip: text;
-    background-size: 400% 400%;
-    color: transparent;
-}
-
 @keyframes gradient {
     0% {
         background-position: 0% 50%;
